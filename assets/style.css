@@ -1,0 +1,27 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: azure;
+}
+.about {
+  padding: 2rem 1rem;
+}
+.portfolio {
+  padding: 2rem 1rem;
+  background-color: azure;
+}
+.alamat {
+  text-align: center;
+}
+.footer {
+  padding: 2rem 1rem;
+  background-color: azure;
+}
+#button {
+  margin-left: 10px;
+}
+#content {
+  padding: 2rem 1rem;
+}
+.form-label {
+  font-weight: bold;
+}
